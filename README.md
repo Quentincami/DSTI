@@ -8,6 +8,9 @@ We complemented our python installation with
 scikit learn 1.3
 
 Numpy 1.24.3
+
 pandas 2.0.3
+
 matplotlib 3.7.2
+
 seaborn 0.12.2
